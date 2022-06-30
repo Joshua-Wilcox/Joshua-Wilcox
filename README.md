@@ -9,4 +9,3 @@ Mornin'. I'm Josh , a greenie software developwe from the lovely south west of E
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JoshuaW28377697&layout=wide&show_retweet=off&show_reply=off)](https://github.com/gazf/github-readme-twitter)
 =======
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JMWCX)

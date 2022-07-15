@@ -10,3 +10,6 @@ I'm Josh, a greenie software developwe from the lovely south west of England. At
 <a href="https://www.buymeacoffee.com/JMWCX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="200"></a>
 
 =======
+
+![](jmw.png)
+=======

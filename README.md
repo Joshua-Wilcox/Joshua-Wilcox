@@ -1,11 +1,11 @@
 # Joshua Wilcox
 
-Year 12 Student\n
-Aspiring Software Engineer\n
-2000+ Lines Python\n
-100+ Lines SQL\n
-100+ Lines HTML\n
-Some JS\n
+Year 12 Student <br>
+Aspiring Software Engineer <br>
+2000+ Lines Python <br>
+100+ Lines SQL <br>
+100+ Lines HTML <br>
+Some JS <br><br>
 
 
 

@@ -9,7 +9,7 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - 🖥️ Software Engineering undergraduate with experience in Python, Java, C, and SQL
 - 🧮 Strong mathematical background with top grades in Further Mathematics (A*)
 - 💻 Experience with GitHub, containerization, and Agile methodologies
-- 🗣️ Excellent communication and presentation skills
+- 🗣️ Experience with communication and presentation
 
 ## 📚 Education
 

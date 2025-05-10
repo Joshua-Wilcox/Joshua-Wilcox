@@ -9,7 +9,7 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Software Engineering undergraduate with experience in Python, Java, C, and SQL
 - Strong mathematical background
 
-## 📚 Education
+## Education
 
 - **University of Southampton** (2024-2028)
   - Master of Engineering (MEng) in Computer Software Engineering

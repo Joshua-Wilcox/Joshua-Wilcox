@@ -1,15 +1,13 @@
 # Josh Wilcox
 
-## 🎓 Software Engineering Student | University of Southampton
+## Software Engineering Student | University of Southampton
 
 I'm a first-year Integrated MEng Software Engineering student at the University of Southampton with a strong foundation in mathematics, programming, and software development.
 
-## 🧠 About Me
+##Me
 
-- 🖥️ Software Engineering undergraduate with experience in Python, Java, C, and SQL
-- 🧮 Strong mathematical background with top grades in Further Mathematics (A*)
-- 💻 Experience with GitHub, containerization, and Agile methodologies
-- 🗣️ Experience with communication and presentation
+- Software Engineering undergraduate with experience in Python, Java, C, and SQL
+- Strong mathematical background
 
 ## 📚 Education
 
@@ -30,19 +28,20 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
   - GCSEs: 10 A*s (Grades: 9, 9, 9, 9, 9, 9, 9, 9, 8, 8)
   - Subjects included Further Maths, Computer Science, Physics, Biology, Chemistry, DT, History, English
 
-## 💼 Work Experience
+## Work Experience
 
 ### Software Engineer | NCR Corporation (Jun 2023)
 - Integrated into a small team using Agile methodologies
 - Participated in daily scrum calls
-- Developed a production-grade project using Python and Docker containerization
+- Developed a production-grade mini-project using Python and Docker containerization
+- Was exposed to Kubernetes and Container Orchestration
 - Used GitHub for issue tracking, branching code, and responding to code reviews
 - Received positive feedback on coding abilities and communication skills
 
 ### Patient Services Administrator | Ariel Healthcare (Jul 2023 - Sep 2024)
 - Managed patient registration and electronic filing systems
 
-## 🏆 Awards & Achievements
+## Awards & Achievements
 
 - Year 13 A-Level Award for Further Mathematics (2024)
 - MUN - Commended Delegate Award at Lingfield MUN (2023)
@@ -50,21 +49,21 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Year 11 GCSE Awards for Further Maths and History (2022)
 - Silver Duke of Edinburgh Award
 
-## 🧩 Projects
+## Projects
 
 - **Extended Project Qualification on AI Art Appreciation**
   - Score: 41/50 (Grade A)
   - Explored the boundaries of AI-generated art appreciation
   - Utilized prompt engineering techniques
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming Languages**: Python, Java, C
 - **Data**: SQL, Database Management
 - **Tools**: GitHub, LaTeX, Docker
 - **Methodologies**: Agile, Software Development
 
-## 🤝 Soft Skills
+## Soft Skills
 
 - Communication & Presentation
 - Teamwork & Leadership
@@ -73,7 +72,7 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Academic Writing
 - Negotiation
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: [josh-m-wilcox](https://www.linkedin.com/in/josh-m-wilcox/)
 - Email: wilcoxjedu@gmail.com

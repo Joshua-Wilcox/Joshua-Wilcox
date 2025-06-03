@@ -50,8 +50,8 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Silver Duke of Edinburgh Award
 
 ## Projects
-- ** [flashcards.112000000.xyz](https://flashcards.112000000.xyz) **
-- ** [CashCat](https://cashcat.indigonolan.com)** in collaboration with Indigo Nolan
+- **[flashcards.112000000.xyz](https://flashcards.112000000.xyz)**
+- **[CashCat](https://cashcat.indigonolan.com) in collaboration with Indigo Nolan**
 - **Extended Project Qualification on AI Art Appreciation**
   - Score: 41/50 (Grade A)
   - Explored the boundaries of AI-generated art appreciation

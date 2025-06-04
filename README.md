@@ -9,6 +9,19 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Software Engineering undergraduate with experience in Python, Java, C, and SQL
 - Strong mathematical background
 
+## Projects
+- **[flashcards.112000000.xyz](https://flashcards.112000000.xyz)**
+- **[CashCat](https://cashcat.indigonolan.com) in collaboration with Indigo Nolan**
+- **Extended Project Qualification on AI Art Appreciation**
+  - Score: 41/50 (Grade A)
+  - Explored the boundaries of AI-generated art appreciation
+  - Utilized prompt engineering techniques
+
+## Connect With Me
+
+- LinkedIn: [josh-m-wilcox](https://www.linkedin.com/in/josh-m-wilcox/)
+- Email: wilcoxjedu@gmail.com
+
 ## Education
 
 - **University of Southampton** (2024-2028)
@@ -49,14 +62,6 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Year 11 GCSE Awards for Further Maths and History (2022)
 - Silver Duke of Edinburgh Award
 
-## Projects
-- **[flashcards.112000000.xyz](https://flashcards.112000000.xyz)**
-- **[CashCat](https://cashcat.indigonolan.com) in collaboration with Indigo Nolan**
-- **Extended Project Qualification on AI Art Appreciation**
-  - Score: 41/50 (Grade A)
-  - Explored the boundaries of AI-generated art appreciation
-  - Utilized prompt engineering techniques
-
 ## Technical Skills
 
 - **Programming Languages**: Python, Java, C
@@ -72,8 +77,3 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - Peer Mentoring & Teaching
 - Academic Writing
 - Negotiation
-
-## Connect With Me
-
-- LinkedIn: [josh-m-wilcox](https://www.linkedin.com/in/josh-m-wilcox/)
-- Email: wilcoxjedu@gmail.com

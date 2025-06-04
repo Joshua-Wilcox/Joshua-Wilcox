@@ -12,10 +12,6 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 ## Projects
 - **[flashcards.112000000.xyz](https://flashcards.112000000.xyz)**
 - **[CashCat](https://cashcat.indigonolan.com) in collaboration with Indigo Nolan**
-- **Extended Project Qualification on AI Art Appreciation**
-  - Score: 41/50 (Grade A)
-  - Explored the boundaries of AI-generated art appreciation
-  - Utilized prompt engineering techniques
 
 ## Connect With Me
 
@@ -36,6 +32,8 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
   - A-Levels: Further Mathematics (A*), Mathematics (A*), Physics (A)
   - Further Mathematics: Top scoring in the college
   - STEP II Mathematics: Grade 3
+  - **Extended Project Qualification on AI Art Appreciation**
+    - Score: 41/50 (Grade A)
 
 - **Queen's College, Taunton** (2019-2022)
   - GCSEs: 10 A*s (Grades: 9, 9, 9, 9, 9, 9, 9, 9, 8, 8)

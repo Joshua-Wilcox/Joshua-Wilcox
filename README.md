@@ -31,7 +31,7 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 - **Queen's College, Taunton** (2022-2024)
   - A-Levels: Further Mathematics (A*), Mathematics (A*), Physics (A)
   - Further Mathematics: Top scoring in the college
-  - STEP II Mathematics: Grade 3
+  - Cambridge STEP II Mathematics: Grade 3
   - **Extended Project Qualification on the extent of which AI art should be appreciated**
     - Score: 41/50 (Grade A)
 

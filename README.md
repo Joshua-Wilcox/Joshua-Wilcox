@@ -11,7 +11,7 @@ I'm a first-year Integrated MEng Software Engineering student at the University 
 
 ## Projects
 - **[flashcards.112000000.xyz](https://flashcards.112000000.xyz)**
-- **[CashCat](https://cashcat.app) in collaboration with Indigo Nolan**
+- **[CashCat](https://cashcat.app) in collaboration with Indigo Nolan** - [See Github](https://github.com/lemonaise-dev/cashcat)
 
 ## Connect With Me
 

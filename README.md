@@ -2,7 +2,7 @@
 
 ## Software Engineering Student | University of Southampton
 
-I'm a first-year Integrated MEng Software Engineering student at the University of Southampton with a strong foundation in mathematics, programming, and software development.
+I'm a second-year Integrated MEng Software Engineering student at the University of Southampton with a strong foundation in mathematics, programming, and software development.
 
 ## Me
 

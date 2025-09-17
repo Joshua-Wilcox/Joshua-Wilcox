@@ -15,7 +15,7 @@ I'm a second-year Integrated MEng Software Engineering student at the University
 
 ## Connect With Me
 
-- LinkedIn: [josh-m-wilcox](https://www.linkedin.com/in/josh-m-wilcox/)
+- LinkedIn: [josh-m-wilcox](https://www.linkedin.com/in/josh-wilcox-swe/)
 - Email: wilcoxjedu@gmail.com
 
 ## Education

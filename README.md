@@ -10,8 +10,9 @@ I'm a second-year Integrated MEng Software Engineering student at the University
 - Strong mathematical background
 
 ## Projects
-- **[flashcards.112000000.xyz](https://flashcards.112000000.xyz)**
 - **[CashCat](https://cashcat.app) in collaboration with Indigo Nolan** - [See Github](https://github.com/lemonaise-dev/cashcat)
+- **[flashcards.josh.software](https://flashcards.josh.software)**
+- **[mazegen.josh.software](https://flashcards.josh.software)**
 
 ## Connect With Me
 

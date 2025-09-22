@@ -13,5 +13,5 @@ See more at **[josh.software](https://josh.software)**
 
 ## Connect With Me
 
-- LinkedIn: [josh-m-wilcox](https://www.linkedin.com/in/josh-wilcox-swe/)
+- LinkedIn: [josh-wilcox-swe](https://www.linkedin.com/in/josh-wilcox-swe/)
 - Email: github@josh.software

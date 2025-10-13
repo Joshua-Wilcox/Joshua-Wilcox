@@ -8,7 +8,7 @@ See more at **[josh.software](https://josh.software)**
 
 ## Projects
 - **[CashCat](https://cashcat.app) in collaboration with Indigo Nolan** - [See Github](https://github.com/lemonaise-dev/cashcat)
-- **[flashcards.josh.software](https://flashcards.josh.software)**
+- **[flashcards.josh.software](https://flashcards.josh.software)** - [See Github](https://github.com/Joshua-Wilcox/Flashcards)
 - **[mazegen.josh.software](https://flashcards.josh.software)**
 
 ## Connect With Me
